@@ -1,3 +1,3 @@
-Descision Tree - CART model
-Random Forest
+Descision Tree - CART model\n
+Random Forest\n
 Artificial Neural Network
